@@ -11,7 +11,7 @@ I am a 1st-year **B.Tech CSE (AI & ML) student at Galgotias University**. I am p
 ## 🏆 Hackathon & Achievements
 - **Participant at Hack'em Hex Hackathon (IEEE):** Developed a conceptual framework for an *AI-Powered Personalized Smart Study Planner*. 
 - 📜 [View my Hack'em Hex Participation Certificate](https://github.com)
-- 💻 [View the Project Code/Repository](https://github.com)
+- 💻 - [View the Project Code/Repository](https://github.com/anmolboora26/Smart---Study---Planner---Hackem---Hex)
 - **Participant at HEALTHNOVA 2026** - IEEE EMBS Bioengineering Innovation Challenge with Team *Quantum Coders*.
   <br>
   <img src="IEEE Healthnova Certificate.jpeg" width="500">
