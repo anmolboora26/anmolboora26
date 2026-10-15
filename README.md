@@ -12,11 +12,13 @@ I am a 1st-year **B.Tech CSE (AI & ML) student at Galgotias University**. I am p
 
 - **Participant at Hack 'em Hex Hackathon (IEEE)** - Developed a conceptual framework for an "AI-Powered Personalized Smart Study Planner".
   <br>
-  <img src="https://github.com" width="500">
+  <img src="https://githubusercontent.com" width="500">
+  <br>
 
 - **Participant at Build With Bharat 4.0** - Developed a "Smart Traffic Light Management System".
   <br>
   <img src="build-with-bharat-4-participation.png" width="500">
+  <br>
 
 - **Participant at HEALTHNOVA 2026** - IEEE EMBS Bioengineering Innovation Challenge with Team "Quantum Coders".
   <br>
