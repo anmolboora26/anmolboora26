@@ -13,6 +13,8 @@ I am a 1st-year **B.Tech CSE (AI & ML) student at Galgotias University**. I am p
   - 📜 [View my Hack'em Hex Participation Certificate](https://github.com)
 - 💻 [View the Project Code/Repository](https://github.com/anmolboora26/Smart---Study---Planner--Hackem---Hex) 
 - **Participant at HEALTHNOVA 2026** - IEEE EMBS Bioengineering Innovation Challenge with Team *Quantum Coders*.
+   <br>
+<img src="build-with-bharat-4-participation.png" width="500"> 
   <br>
   <img src="IEEE Healthnova Certificate.jpeg" width="500">
 ## 📈 My Coding Journey
