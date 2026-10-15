@@ -11,7 +11,7 @@ I am a 1st-year **B.Tech CSE (AI & ML) student at Galgotias University**. I am p
 ## 🏅 Hackathon & Achievements
 
 - **Participant at Hack 'em Hex Hackathon (IEEE)** - Developed a conceptual framework for an "AI-Powered Personalized Smart Study Planner".
-  [View my Hack 'em Hex Participation certificate](https://github.com)
+  [View my Hack 'em Hex Participation certificate](IEEE%20Hackathon%20Certificate.jpeg)
 
 - **Participant at Build With Bharat 4.0** - Developed a "Smart Traffic Light Management System".
   <br>
