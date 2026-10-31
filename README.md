@@ -12,6 +12,8 @@ I am a 1st-year **B.Tech CSE (AI & ML) student at Galgotias University**. I am p
 
 - **Participant at Hack 'em Hex Hackathon (IEEE)** - Developed a conceptual framework for an "AI-Powered Personalized Smart Study Planner".
   <img src="my-cert.png.png" width="500">
+  - **Top 15 Finalist at STARTUPATHON & IDEATHON** - Secured a place among the top finalists, organized by Vampire Slayers.
+  <img src="Anmol_Startupathon_Certificate.png.png" width="500">
 
 - **Participant at Build With Bharat 4.0** - Developed a "Smart Traffic Light Management System".
   <br>
